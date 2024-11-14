@@ -1,5 +1,8 @@
 # Here is a new update by reed-sexton-56
 
+# Yet another useless update from reed, as requested by
+# the lab instructions. -_-
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
